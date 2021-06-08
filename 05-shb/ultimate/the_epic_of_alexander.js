@@ -2657,7 +2657,7 @@ Options.Triggers.push({
           de: 'Warte in der Mitte, ausweichen nach Norden',
           fr: 'Attendez au milieu, esquivez au Nord',
           ja: '中央から北へ',
-          cn: '中间 -> 北',
+          cn: '上 -> 右',
           ko: '가운데서 북쪽으로',
         },
         goNorthDodgeSouth: {
@@ -2665,7 +2665,7 @@ Options.Triggers.push({
           de: 'Geh nach Norden, ausweichen nach Süden',
           fr: 'Allez 1 au Nord, esquivez au Sud',
           ja: '北から中央へ',
-          cn: '北 -> 中间',
+          cn: '右 -> 上',
           ko: '북쪽에서 가운데로',
         },
         goNorthDodgeWest: {
@@ -2673,7 +2673,7 @@ Options.Triggers.push({
           de: 'Geh nach Norden, ausweichen nach Westen',
           fr: 'Allez 1 au Nord, esquivez à l\'Ouest',
           ja: '北から西へ',
-          cn: '北 -> 西',
+          cn: '右 -> 中',
           ko: '북쪽에서 서쪽으로',
         },
         goSouthDodgeEast: {
@@ -2681,7 +2681,7 @@ Options.Triggers.push({
           de: 'Geh nach Süden, ausweichen nach Osten',
           fr: 'Allez 1 au Sud, esquivez à l\'Est',
           ja: '南から東へ',
-          cn: '南 -> 东',
+          cn: '中 -> 右',
           ko: '남쪽에서 동쪽으로',
         },
         waitMiddleDodgeSouth: {
@@ -2689,7 +2689,7 @@ Options.Triggers.push({
           de: 'Warte in der Mitte, ausweichen nach Süden',
           fr: 'Attendez au milieu, esquivez au Sud',
           ja: '中央から南へ',
-          cn: '中间 -> 南',
+          cn: '左 -> 中',
           ko: '가운데서 남쪽으로',
         },
         goSouthDodgeNorth: {
@@ -2697,7 +2697,7 @@ Options.Triggers.push({
           de: 'Geh nach Süden, ausweichen nach Norden',
           fr: 'Allez 1 au Sud, esquivez au Nord',
           ja: '南から北へ',
-          cn: '南 -> 北',
+          cn: '中 -> 左',
           ko: '남쪽에서 북쪽으로',
         },
       },
